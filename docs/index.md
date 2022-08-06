@@ -1,6 +1,6 @@
 <center>
 
 
-**New Site**:<https://home.sb-hrms.com/> 
+New Site:https://home.sb-hrms.com/ 
 
 </center>
